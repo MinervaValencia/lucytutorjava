@@ -1,0 +1,24 @@
+.nav-side-menuLucy {
+  overflow: auto;
+  font-family: verdana;
+  font-size: 12px;
+  font-weight: 200;
+  background-color: #1b1b1c;
+  top: 0px;
+  width: 100%;
+  height: 50px;
+  color: #d2def2;
+  margin: 0px;
+}
+ .nav-side-menuMsg{
+  overflow: auto;
+  font-family: verdana;
+  font-size: 12px;
+  font-weight: 200;
+  background-color: #070707;
+  top: 430px;
+  width: 100%;
+  height: 400px;
+  color: #12e8e0;
+  margin: 0px;
+}
