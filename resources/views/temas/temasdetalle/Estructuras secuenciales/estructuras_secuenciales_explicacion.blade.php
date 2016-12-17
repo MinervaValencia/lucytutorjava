@@ -3,8 +3,8 @@
 @section('contenttemadetalle')
 
 <table cellpadding="100px" ="50" width="100%" border="0px">
-	<tr><td><h2>Programas con estructura secuencial</h2>
-			<p>Están conformados por estatutos simples (asignación, incremento, break, llamadas a métodos o funciones) y bloques de instrucción delimitados por llaves {}.</p>
+	<tr><td><h2>Programas con estructura secuenci  al</h2>
+			<p>Tal como se dijo anteriormente, estos programas no contienen estructuras de controlde flujo, están conformados por estatutos simples (asignación, incremento, break, llamadas a métodos o funciones) y bloques de instrucción delimitados por llaves {}.</p>
 		</td>
 	</tr>
 	
